@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Revive Adserver
-description: FAQ
+description: Users Guide
 ---
 
 To be written.
