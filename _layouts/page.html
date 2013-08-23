@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+        {{ page.title }}
+    </title>
+    {% if page.description %}
+        <meta name="description" content="{{ page.description }}" />
+    {% endif %}
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<link rel="stylesheet" type="text/css" media="screen" href="assets/stylesheets/stylesheet.css" />
+  </head>
+  <body>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/revive-adserver/revive-adserver/">View on GitHub</a>
+
+          <h1 id="project_title">{{page.title}}</h1>
+          <h2 id="project_tagline">{{page.description}}</h2>
+
+          <section id="downloads">
+            <a class="http://download.revive-adserver.com/latest.zip" href="#">Download Revive Adserver as a .zip file</a>
+            <a class="http://download.revive-adserver.com/latest.tar.gz" href="#">Download revive Adserver as a tar.gz file</a>
+          </section>
+        </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+            {{ page.title }}
+        </h3>
+        {{ content }}
+      </section>
+    </div>
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Slate theme maintained by <a href="https://github.com/jsncostello">Jason Costello</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
