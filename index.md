@@ -6,8 +6,7 @@ description: The open source ad server formerly known as OpenX Source
 
 #### About Revive Adserver
 
-Revive Adserver is the new name for OpenX Source, an open source ad serving tool
-that enables publishers to:
+Revive Adserver is an open source ad serving tool that enables publishers to:
 
 * Serve ads on their websites;
 * Manage their campaigns from different advertisers and/or ad networks
@@ -24,9 +23,8 @@ that enables publishers to:
 
 ###### Revive Adserver 3.0.0 Released
 
-Revive Adserver 3.0.0 has been released. The release includes a re-brand from
-the original "OpenX Source" application name, security updates, new features and
-bug fixes. The
+Revive Adserver 3.0.0 has been released. The release renames the product to
+Revive Adserver, and includes security updates, new features and bug fixes. The
 [release notes](https://github.com/revive-adserver/revive-adserver/blob/v3.0.0/RELEASE_NOTES.txt)
 contain all of the details, which users are encouraged to read carefully before
 upgrading.
