@@ -33,6 +33,12 @@ upgrading.
 
 * * *
 
+#### Documentation
+
+Documentation has yet to be written for Revive Adserver. If you would like to
+help contribute to the project by writing documentation, please fork the project
+in GitHub and submit a pull request for the "gh-pages" branch.
+
 #### [Installation Guide](/docs/install "Installation Guide")
 
 A quick guide to installing Revive Adserver.
