@@ -13,8 +13,23 @@ that enables publishers to:
 * Manage their campaigns from different advertisers and/or ad networks
   using a simple, easy-to-use interface;
 * Track and report on campaign success, including click-through rates; and
-* Set rules to target the delivery of campaigns, or even ads, to
-  specific users, to help maximise the effectiveness of campaigns.
+* Set rules to target the delivery of campaigns, or even ads, to specific
+  users, to help maximise the effectiveness of campaigns.
+
+* * *
+
+#### Latest News
+
+##### 13 September 2013
+
+###### Revive Adserver 3.0.0 Released
+
+Revive Adserver 3.0.0 has been released. The release includes a re-brand from
+the original "OpenX Source" application name, security updates, new features and
+bug fixes. The
+[release notes](https://github.com/revive-adserver/revive-adserver/blob/v3.0.0/RELEASE_NOTES.txt)
+contain all of the details, which users are encouraged to read carefully before
+upgrading.
 
 * * *
 
