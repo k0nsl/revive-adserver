@@ -198,13 +198,15 @@ ul, ol, dl {
 }
 
 ul li {
-  list-style: inside;
-  padding-left: 20px;
+  list-style: outside;
+  margin-left: 20px;
+  padding-left: 10px;
 }
 
 ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
+  list-style: decimal outside;
+  margin-left: 20px;
+  padding-left: 10px;
 }
 
 dl dt {
