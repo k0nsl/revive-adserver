@@ -29,6 +29,13 @@ Revive Adserver, and includes security updates, new features and bug fixes. The
 contain all of the details, which users are encouraged to read carefully before
 upgrading.
 
+###### OpenX Announce Sale of OpenX Source
+
+OpenX have announced the sale of OpenX Source to the Revive Adserver team. See
+the OpenX
+[press release](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
+for details.
+
 * * *
 
 #### Documentation
