@@ -19,6 +19,15 @@ Revive Adserver is an open source ad serving tool that enables publishers to:
 
 #### Latest News
 
+##### 21 September 2013
+
+###### PHP 5.4.20 Released
+
+(PHP 5.4.20 has been released)[http://www.php.net/releases/5_4_20.php],
+which includes a bugfix for a segfault reported by the Revive Adserver team. If
+you want to use the recently released Revive Adserver 3.0.0 with PHP 5.4, please
+upgrade to PHP 5.4.20.
+
 ##### 13 September 2013
 
 ###### Revive Adserver 3.0.0 Released
@@ -31,10 +40,9 @@ upgrading.
 
 ###### OpenX Announce Sale of OpenX Source
 
-OpenX have announced the sale of OpenX Source to the Revive Adserver team. See
-the OpenX
-[press release](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
-for details.
+OpenX have announced the sale of OpenX Source to the Revive Adserver team.
+[](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
+
 
 * * *
 
