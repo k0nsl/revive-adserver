@@ -23,7 +23,7 @@ Revive Adserver is an open source ad serving tool that enables publishers to:
 
 ###### PHP 5.4.20 Released
 
-(PHP 5.4.20 has been released)[http://www.php.net/releases/5_4_20.php],
+[PHP 5.4.20 has been released](http://www.php.net/releases/5_4_20.php),
 which includes a bugfix for a segfault reported by the Revive Adserver team. If
 you want to use the recently released Revive Adserver 3.0.0 with PHP 5.4, please
 upgrade to PHP 5.4.20.
