@@ -43,6 +43,13 @@ upgrading.
 OpenX have announced the sale of OpenX Source to the Revive Adserver team.
 [](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
 
+* * *
+
+#### Support
+
+Support for Revive Adserver is via the project's GitHub
+[issues page](https://github.com/revive-adserver/revive-adserver/issues?state=open).
+Please report all bugs or problems there.
 
 * * *
 
