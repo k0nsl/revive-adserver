@@ -40,8 +40,10 @@ upgrading.
 
 ###### OpenX Announce Sale of OpenX Source
 
-OpenX have announced the sale of OpenX Source to the Revive Adserver team.
-[](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
+OpenX have
+[announced the sale of OpenX Source](http://www.openx.com/content/openx-sells-open-source-ad-serving-product)
+to the Revive Adserver team.
+
 
 * * *
 
